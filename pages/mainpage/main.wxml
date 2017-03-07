@@ -2,7 +2,9 @@
 <!--<text>这里平铺scroll view 的图片</text>-->
 
  <scroll-view >
+  <navigator url="../index/index">
     <view id="green" class="scroll-view-item bc_green"></view>
+ </navigator>
     <view id="red"  class="scroll-view-item bc_red"></view>
     <view id="yellow" class="scroll-view-item bc_yellow"></view>
     <view id="blue" class="scroll-view-item bc_blue"></view>
