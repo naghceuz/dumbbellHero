@@ -8,5 +8,7 @@
     <text class="user-motto">{{motto}}</text>
   </view>-->
 
-  好开心
+  <navigator url="../logs/logs">
+     好开心
+ </navigator>
 </view>
