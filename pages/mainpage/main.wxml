@@ -5,7 +5,17 @@
   <navigator url="../index/index">
     <view id="green" class="scroll-view-item bc_green"></view>
  </navigator>
+
+ <navigator url="../index/index2">
     <view id="red"  class="scroll-view-item bc_red"></view>
+  </navigator>
+
+<navigator url="../index/index2">
     <view id="yellow" class="scroll-view-item bc_yellow"></view>
+</navigator>
+
+<navigator url="../index/index3">
     <view id="blue" class="scroll-view-item bc_blue"></view>
+</navigator>
+
   </scroll-view>
