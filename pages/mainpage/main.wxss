@@ -10,10 +10,10 @@
 
 .bc_red {
      background-color: red;
-     background-image: url("../img/1.jpg");
+     background-image: url("../img/arms1.jpg");
 }
 
-.bc_green {
+.bc_green {x
      background-color: green;
      background-image: url("../img/1.jpg");
 }

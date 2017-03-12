@@ -18,4 +18,12 @@
     <view id="blue" class="scroll-view-item bc_blue"></view>
 </navigator>
 
+<navigator url="../index/index3">
+    <view id="blue" class="scroll-view-item bc_blue"></view>
+</navigator>
+
+<navigator url="../index/index3">
+    <view id="blue" class="scroll-view-item bc_blue"></view>
+</navigator>
+
   </scroll-view>
