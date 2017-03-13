@@ -8,22 +8,26 @@
     height: 200px; 
 }
 
-.bc_red {
-     background-color: red;
-     background-image: url("../img/arms1.jpg");
+.bc_arms {
+     background-image: url("../img/arms.jpg");
 }
 
-.bc_green {x
-     background-color: green;
-     background-image: url("../img/1.jpg");
+.bc_back {
+     background-image: url("../img/back.jpg");
 }
 
-.bc_yellow {
-     background-color: yellow;
-     background-image: url("../img/1.jpg");
+.bc_abs {
+     background-image: url("../img/abs.jpg");
 }
 
-.bc_blue {
-     background-color: blue;
-     background-image: url("../img/1.jpg");
+.bc_chest {
+     background-image: url("../img/chest.jpg");
+}
+
+.bc_legs {
+     background-image: url("../img/legs.jpg");
+}
+
+.bc_shoulders {
+     background-image: url("../img/shoulders.jpg");
 }

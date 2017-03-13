@@ -1,4 +1,4 @@
-pages/index/index3.js
+// pages/index/shoulders.js
 Page({
   data:{},
   onLoad:function(options){

@@ -1,4 +1,4 @@
-pages/index/index2.js
+// pages/index/legs.js
 Page({
   data:{},
   onLoad:function(options){

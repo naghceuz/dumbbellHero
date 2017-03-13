@@ -1,4 +1,4 @@
-// pages/index2/index.js
+// pages/index/abs.js
 Page({
   data:{},
   onLoad:function(options){

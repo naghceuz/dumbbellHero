@@ -1,11 +1,12 @@
 {
   "pages":[
     "pages/mainpage/main",
-    "pages/index/index",
-    "pages/index/index1",
-    "pages/index/index2",
-    "pages/index/index3",
-    "pages/logs/logs"
+    "pages/index/arms",
+    "pages/index/back",
+    "pages/index/abs",
+    "pages/index/chest",
+    "pages/index/legs",
+    "pages/index/shoulders"
   ],
   "window":{
     "backgroundTextStyle":"light",
