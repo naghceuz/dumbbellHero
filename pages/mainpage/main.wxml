@@ -2,28 +2,28 @@
 <!--<text>这里平铺scroll view 的图片</text>-->
 
  <scroll-view >
-  <navigator url="../index/index">
-    <view id="green" class="scroll-view-item bc_arms"></view>
+  <navigator url="../index/arms">
+    <view  class="scroll-view-item bc_arms"></view>
  </navigator>
 
  <navigator url="../index/index2">
-    <view id="red"  class="scroll-view-item bc_back"></view>
+    <view  class="scroll-view-item bc_back"></view>
   </navigator>
 
 <navigator url="../index/index2">
-    <view id="yellow" class="scroll-view-item bc_abs"></view>
+    <view  class="scroll-view-item bc_abs"></view>
 </navigator>
 
 <navigator url="../index/index3">
-    <view id="blue" class="scroll-view-item bc_chest"></view>
+    <view  class="scroll-view-item bc_chest"></view>
 </navigator>
 
 <navigator url="../index/index3">
-    <view id="blue" class="scroll-view-item bc_legs"></view>
+    <view  class="scroll-view-item bc_legs"></view>
 </navigator>
 
 <navigator url="../index/index3">
-    <view id="blue" class="scroll-view-item bc_shoulders"></view>
+    <view  class="scroll-view-item bc_shoulders"></view>
 </navigator>
 
   </scroll-view>

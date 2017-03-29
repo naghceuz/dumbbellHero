@@ -6,7 +6,9 @@
     "pages/index/abs",
     "pages/index/chest",
     "pages/index/legs",
-    "pages/index/shoulders"
+    "pages/index/shoulders",
+    "pages/index/arms/arms1",
+    "pages/index/arms/arms2"
   ],
   "window":{
     "backgroundTextStyle":"light",

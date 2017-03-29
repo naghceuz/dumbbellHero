@@ -1,8 +1,16 @@
 <!--index.wxml-->
-<view class="container">
+ <scroll-view >
 
-  <navigator url="../logs/logs">
-     好开心
+  <navigator url="../index/arms/arms1">
+    <view  class="scroll-view-item bc_arms"></view>
+ </navigator>
+
+   <navigator url="../index/arms">
+    <view  class="scroll-view-item bc_arms"></view>
+ </navigator>
+
+   <navigator >
+    <view  class="scroll-view-item bc_arms"></view>
  </navigator>
  
-</view>
+ </scroll-view >
