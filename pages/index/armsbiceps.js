@@ -1,4 +1,4 @@
-// pages/index/arms/arms1.js
+// pages/index/armsbiceps.js
 Page({
   data:{},
   onLoad:function(options){

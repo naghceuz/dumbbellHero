@@ -1,4 +1,4 @@
-// pages/index/arms/arms2.js
+// pages/index/armstriceps/wristExtension.js
 Page({
   data:{},
   onLoad:function(options){
