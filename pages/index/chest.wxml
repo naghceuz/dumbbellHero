@@ -1,2 +1,30 @@
 <!--pages/index/chest.wxml-->
-<text>pages/index/chest.wxml</text>
+ <scroll-view >
+
+ <navigator url="../index/chest/basic-chest-press">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>basic-chest-press</text>
+  </navigator>
+
+<navigator url="../index/chest/flat-bench-fly">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>flat-bench-fly</text>
+  </navigator>
+
+<navigator url="../index/chest/incline-bench-fly">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>incline-bench-fly</text>
+  </navigator>  
+
+<navigator url="../index/chest/incline-bench-press">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>incline-bench-press</text>
+  </navigator>  
+
+<navigator url="../index/chest/pushup">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>pushup</text>
+  </navigator>  
+
+
+  </scroll-view>

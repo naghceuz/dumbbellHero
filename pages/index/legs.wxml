@@ -1,2 +1,22 @@
 <!--pages/index/legs.wxml-->
-<text>pages/index/legs.wxml</text>
+ <scroll-view >
+
+  <navigator url="../index/legs/two-leg-calf-raise">
+    <text>two-leg-calf-raise</text>
+ </navigator>
+
+ <navigator url="../index/legs/bench-squat">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>bench-squat</text>
+  </navigator>
+
+<navigator url="../index/legs/squat">
+    <text>squat</text>
+</navigator>
+
+<navigator url="../index/legs/sumo-squat">
+    <text>sumo-squat</text>
+</navigator>
+
+
+  </scroll-view>

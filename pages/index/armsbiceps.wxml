@@ -1,2 +1,59 @@
 <!--pages/index/armsbiceps.wxml-->
-<text>pages/index/armsbiceps.wxml</text>
+ <scroll-view >
+
+ <navigator url="../index/armsbiceps/biceps-curl">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>biceps-curl</text>
+  </navigator>
+
+  <navigator url="../index/armsbiceps/hammer-curl">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>hammer-curl</text>
+  </navigator>
+
+  <navigator url="../index/armsbiceps/reverse-curl">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>reverse-curl</text>
+  </navigator>
+
+  <navigator url="../index/armsbiceps/seated-curl">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>seated-curl</text>
+  </navigator>
+
+  <navigator url="../index/armsbiceps/seated-hammer-curl">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>seated-hammer-curl</text>
+  </navigator>
+
+  <navigator url="../index/armsbiceps/seated-reverse-curl">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>seated-reverse-curl</text>
+  </navigator>
+
+   <navigator url="../index/armsbiceps/concentration-curl">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>concentration-curl</text>
+  </navigator>
+
+  <navigator url="../index/armsbiceps/concentration-hammer-curl">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>concentration-hammer-curl</text>
+  </navigator>
+
+  <navigator url="../index/armsbiceps/concentration-reverse-curl">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>concentration-reverse-curl</text>
+  </navigator>
+
+  <navigator url="../index/armsbiceps/basic-kickback">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>basic-kickback</text>
+  </navigator>
+
+  <navigator url="../index/armsbiceps/two-arm-kickback">
+    <!--<view  class="scroll-view-item bc_back"></view>-->
+    <text>two-arm-kickback</text>
+  </navigator>
+
+  </scroll-view>

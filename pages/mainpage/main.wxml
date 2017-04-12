@@ -2,8 +2,14 @@
 <!--<text>这里平铺scroll view 的图片</text>-->
 
  <scroll-view >
-  <navigator url="../index/arms">
+  <navigator url="../index/armsbiceps">
     <view  class="scroll-view-item bc_arms"></view>
+    <text>二头</text>
+ </navigator>
+
+ <navigator url="../index/arms">
+    <view  class="scroll-view-item bc_arms"></view>
+    <text>三头</text>
  </navigator>
 
  <navigator url="../index/index2">
@@ -14,11 +20,11 @@
     <view  class="scroll-view-item bc_abs"></view>
 </navigator>
 
-<navigator url="../index/index3">
+<navigator url="../index/chest">
     <view  class="scroll-view-item bc_chest"></view>
 </navigator>
 
-<navigator url="../index/index3">
+<navigator url="../index/legs">
     <view  class="scroll-view-item bc_legs"></view>
 </navigator>
 
